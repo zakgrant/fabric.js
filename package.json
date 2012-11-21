@@ -19,6 +19,7 @@
     "xmldom": ">=0.1.7"
   },
   "devDependencies": {
+    "canvas": "git://github.com/davidjrice/node-canvas.git",
     "qunit": "0.5.x",
     "jshint": "0.9.x",
     "uglify-js": "1.3.x"
